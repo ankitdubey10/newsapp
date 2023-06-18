@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card-img-top {
+  width: 100%;
+  height: 190px;
+  border-radius: 50px;
+
+}
+.card-body {
+  flex: 1 1 auto;
+  padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+  color: var(--bs-card-color);
+  /* height: 230px; */
+}
+.card {
+  --bs-card-border-width: 0px;
+}

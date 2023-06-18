@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Le flash sports du 31 décembre",
+            "description": "Retrouvez toute l'actualité sportive dans votre Flash L'Équipe.",
+            "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-31-decembre/1372226",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-du-31-decembre/1500000001729942/0:0,1997:1331-640-427-75/b08b7.jpg",
+            "publishedAt": "2022-12-30T23:05:00+00:00",
+            "content": "Cristiano Ronaldo officiellement à Al-Nassr. La victoire de l'UBB face à Montpellier (40-10) lors de la 14e journée de Top 14. Le grand départ du Dakar 2023 et l'Asvel qui coule face à Berlin (91-79)… [+77 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Sareen Habeshian",
+            "title": "Cristiano Ronaldo signs with Saudi Arabia's Al Nassr club",
+            "description": "The move will likely fuel the debate about Saudi Arabia using “sportswashing” to boost its image internationally",
+            "url": "https://www.axios.com/2022/12/30/cristiano-ronaldo-saudi-arabia-al-nassr",
+            "urlToImage": "https://images.axios.com/bFARfwoit0uN4yCtgC3We9aN9C4=/0x101:4282x2510/1366x768/2022/12/30/1672438292101.jpg",
+            "publishedAt": "2022-12-30T22:37:26Z",
+            "content": "Saudi Arabian soccer club Al Nassr announced Friday that it has signed superstar Cristiano Ronaldo.\r\nWhy it matters: The move will likely fuel the debate about Saudi Arabia using sportswashing to boo… [+995 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "David PurdumESPN Staff Writer ",
+            "title": "New Jersey halts Citrus Bowl betting; Purdue's Drew Brees in violation of regulations, sources said",
+            "description": "New Jersey halted the state's sportsbooks from taking bets on the Citrus Bowl due to Drew Brees' prior involvement with PointsBet and his recent hire onto Purdue's coaching staff, sources told ESPN.",
+            "url": "http://espn.go.com/college-football/story/_/id/35348985/new-jersey-halts-citrus-bowl-betting-purdue-drew-brees-violation-regulations-sources-said",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0516%2Fr1013633_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-12-30T21:28:00Z",
+            "content": "New Jersey gaming regulators on Friday ordered sportsbooks to halt betting on the Citrus Bowl between Purdue and LSU, because \"an individual associated with Purdue Football team\" is in violation of s… [+1988 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "What Joel Klatt thinks Ohio State, TCU must do to pull off upsets in CFP semis",
+            "description": "What are the keys for each team in the College Football Playoff semifinals? FOX Sports analyst Joel Klatt breaks it down.",
+            "url": "http://www.foxsports.com/stories/college-football/joel-klatt-keys-in-college-football-playoff-semifinals",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/klatt-wide-123022.jpg?ve=1&tl=1",
+            "publishedAt": "2022-12-30T20:33:20Z",
+            "content": "After weeks of pondering, analyzing and studying, the College Football Playoff is finally upon us.\r\nFOX Sports lead college football analyst Joel Klatt has done all of his homework, and on the latest… [+7614 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+            "urlToImage": null,
+            "publishedAt": "2022-12-01T18:52:49.4768049Z",
+            "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Caroline Downey",
+            "title": "Man Wins Elite Women’s Race at International Cyclocross Tournament",
+            "description": "Killips has an online blog, Estro Junkie, which he calls ‘a newsletter about the intersection of sports and queer theory.’",
+            "url": "https://www.nationalreview.com/news/man-wins-elite-womens-race-at-international-cyclocross-tournament/",
+            "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/10/transgender-flag.jpg?fit=2057%2C1200",
+            "publishedAt": "2022-11-15T02:37:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "☄️ NEW ANIME JUST DROPPED ☄️",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/289173-ja-vs-zion-anime",
+            "urlToImage": null,
+            "publishedAt": "2022-11-14T22:07:16.2323649Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        }
+    ]
+}
